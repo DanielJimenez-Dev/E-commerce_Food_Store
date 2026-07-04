@@ -1,4 +1,5 @@
-E-commerce Food Store 🚀 
+# E-commerce Food Store 🚀 
+
 Trabajo Practico Integrador, Materia Programación III, de la Tecnicatura en Programación en la Universidad Tecnológica Nacional (UTN). Esta aplicación es una solución integral de e-commerce desarrollada con un enfoque Full Stack, permitiendo la gestión de un catálogo de productos, registro de usuarios, carrito de compras y flujo de autenticación.
 
 🛠 Tecnologías Utilizadas
